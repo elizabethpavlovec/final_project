@@ -1,5 +1,8 @@
 ---
 title: "Final Project"
+author: "California Dreaming"
+names: Liz, Jack, Veile, Reene
+institute: "The University of Edinburgh"
 output: html_document
 date: "2022-10-21"
 ---
