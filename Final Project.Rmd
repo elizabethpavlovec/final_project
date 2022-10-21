@@ -3,6 +3,7 @@ title: "Final Project"
 author: "California Dreaming"
 names: Liz, Jack, Veile, Reene
 institute: "The University of Edinburgh"
+question: "How does the yield and production of wine in California affect its price and value in USD?"
 output: html_document
 date: "2022-10-21"
 ---
